@@ -25,4 +25,4 @@ Welcome to my GitHub profile! I'm a 2ND Software Student, passionate about Full-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/thakurprashant7949/)
-- [Twitter](https://twitter.com/PrashanTweetssr)
+- [Twitter](https://twitter.com/PrashanTweetss)
