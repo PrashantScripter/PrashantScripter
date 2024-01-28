@@ -22,27 +22,7 @@ Welcome to my GitHub profile! I'm a 2ND Software Student, passionate about Full-
   - Backend: Node.js, Express
   - Database Management: MongoDB, MySQL
 
-## 🛠️ Projects
-
-1. [Project Name 1](Link to Project 1) - Brief description.
-2. [Project Name 2](Link to Project 2) - Brief description.
-3. ...
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/thakurprashant7949/)
 - [Twitter](https://twitter.com/PrashanTweetssr)
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## ❤️ Support
-
-If you find my projects or contributions helpful, consider buying me a coffee.
-
-![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FF813F.svg?&style=for-the-badge&logo=ko-fi&logoColor=white)(Link to Ko-fi)
